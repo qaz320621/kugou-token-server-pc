@@ -14,6 +14,7 @@ import http.server, socketserver
 
 import qrcode  # pip install qrcode[pil]
 
+VERSION = "0.2.0"
 PORT = int(sys.argv[1]) if len(sys.argv) > 1 else 8765
 BASE = os.path.dirname(os.path.abspath(__file__))
 CONFIG_FILE = os.path.join(BASE, 'config.json')
