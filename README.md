@@ -1,6 +1,13 @@
 # PC 版 Token 登录服务（Python）
 
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/qaz320621/kugou-token-server-pc" />
+  <img src="https://img.shields.io/github/downloads/qaz320621/kugou-token-server-pc/total" />
+</p>
+
 酷狗扫码登录 + Token 管理（中间人），供 MusicFree 插件拉取配置。
+
+📥 下载最新版：[Releases](https://github.com/qaz320621/kugou-token-server-pc/releases/latest)（含 token_server.py / config.example.json / 启动Token服务.bat）
 
 ## 依赖关系
 
