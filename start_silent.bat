@@ -11,5 +11,5 @@ start http://127.0.0.1:8765/
 echo 服务已后台启动（无窗口）。
 echo 管理网页已打开：http://127.0.0.1:8765/
 echo.
-echo 如需开机自启，请运行：安装开机自启.ps1（可选，默认不安装）
+echo 如需开机自启，请运行：install_autostart.ps1（可选，默认不安装）
 pause

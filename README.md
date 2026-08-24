@@ -25,8 +25,8 @@ pip install qrcode[pil]
 python token_server.py        # 默认端口 8765
 ```
 
-- **静默运行（无窗口后台）**：双击 `启动服务-静默.bat`（用 pythonw 无窗口运行，并自动打开管理网页）
-- **开机自启（可选，默认不装）**：需要的话运行 `安装开机自启.ps1`；取消运行 `卸载开机自启.ps1`
+- **静默运行（无窗口后台）**：双击 `start_silent.bat`（用 pythonw 无窗口运行，并自动打开管理网页）
+- **开机自启（可选，默认不装）**：需要的话运行 `install_autostart.ps1`；取消运行 `uninstall_autostart.ps1`
 
 Windows 也可双击 `启动Token服务.bat`。
 
